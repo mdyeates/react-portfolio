@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.1b98adee.css",
+    "main.js": "/react-portfolio/static/js/main.90d69f03.js",
+    "static/media/me.svg": "/react-portfolio/static/media/me.b6cc487e592a4f326f8775a1feb83ae3.svg",
+    "static/media/aboutme.jpeg": "/react-portfolio/static/media/aboutme.ed5323282ed6df90686a.jpeg",
+    "static/media/Michael_Yeates_CV.pdf": "/react-portfolio/static/media/Michael_Yeates_CV.ed38fbfb12fdd3908e0e.pdf",
+    "static/media/logo.svg": "/react-portfolio/static/media/logo.a915eb67f88bd575a0c8237b812a9382.svg",
+    "index.html": "/react-portfolio/index.html",
+    "static/media/close.svg": "/react-portfolio/static/media/close.313a8e6ce95e72014ca00fb56d8b3ff3.svg",
+    "static/media/open.svg": "/react-portfolio/static/media/open.196e865822b06a50385b031f9913c3a0.svg",
+    "main.1b98adee.css.map": "/react-portfolio/static/css/main.1b98adee.css.map",
+    "main.90d69f03.js.map": "/react-portfolio/static/js/main.90d69f03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b98adee.css",
+    "static/js/main.90d69f03.js"
+  ]
+}
